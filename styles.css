@@ -157,6 +157,7 @@ main {
 }
 
 .review-card p {
+    font-weight: 500;
     max-width: 300px;
     line-height: 25px;
 }
