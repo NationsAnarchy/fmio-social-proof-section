@@ -39,12 +39,13 @@ main {
 }
 
 .stats h1 {
-    font-size: 36px;
+    font-size: 44px;
 }
 
 .stats p {
     color: var(--dark-grayish-magenta);
     font-weight: 400;
+    font-size: 18px;
 }
 
 .ratings {
